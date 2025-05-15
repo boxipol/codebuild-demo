@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <file url="file://$USER_HOME$/Documents/PriceListManager/src/main/java/cardata/partpricemanager/brands/SKODA_brand.java" />
+      <file url="file://$USER_HOME$/Documents/PriceListManager/src/main/java/cardata/partpricemanager/brands/AUDI_brand.java" />
+      <file url="file://$USER_HOME$/Documents/PriceListManager/src/main/java/cardata/partpricemanager/brands/BMW_DARUCAR_brand.java" />
+      <file url="file://$USER_HOME$/Documents/PriceListManager/src/main/java/cardata/partpricemanager/brands/BMW_M_CAR_brand.java" />
+      <file url="file://$USER_HOME$/Documents/PriceListManager/src/main/java/cardata/partpricemanager/brands/CITROEN_brand.java" />
+      <file url="file://$USER_HOME$/Documents/PriceListManager/src/main/java/cardata/partpricemanager/brands/FIAT_brand.java" />
+      <file url="file://$USER_HOME$/Documents/PriceListManager/src/main/java/cardata/partpricemanager/brands/FORD_brand.java" />
+      <file url="file://$USER_HOME$/Documents/PriceListManager/src/main/java/cardata/partpricemanager/brands/HONDA_brand.java" />
+      <file url="file://$USER_HOME$/Documents/PriceListManager/src/main/java/cardata/partpricemanager/brands/HYUNDAI_brand.java" />
+      <file url="file://$USER_HOME$/Documents/PriceListManager/src/main/java/cardata/partpricemanager/brands/INFINITI_brand.java" />
+      <file url="file://$USER_HOME$/Documents/PriceListManager/src/main/java/cardata/partpricemanager/brands/JAGUAR_brand.java" />
+      <file url="file://$USER_HOME$/Documents/PriceListManager/src/main/java/cardata/partpricemanager/brands/KIA_brand.java" />
+      <file url="file://$USER_HOME$/Documents/PriceListManager/src/main/java/cardata/partpricemanager/brands/MAZDA_brand.java" />
+      <file url="file://$USER_HOME$/Documents/PriceListManager/src/main/java/cardata/partpricemanager/brands/MAZDA_brand2.java" />
+      <file url="file://$USER_HOME$/Documents/PriceListManager/src/main/java/cardata/partpricemanager/brands/MERCEDES_brand.java" />
+      <file url="file://$USER_HOME$/Documents/PriceListManager/src/main/java/cardata/partpricemanager/brands/NISSAN_brand.java" />
+      <file url="file://$USER_HOME$/Documents/PriceListManager/src/main/java/cardata/partpricemanager/brands/NISSAN_brand2.java" />
+      <file url="file://$USER_HOME$/Documents/PriceListManager/src/main/java/cardata/partpricemanager/brands/NISSAN_brand3.java" />
+      <file url="file://$USER_HOME$/Documents/PriceListManager/src/main/java/cardata/partpricemanager/brands/ROVER_brand.java" />
+      <file url="file://$USER_HOME$/Documents/PriceListManager/src/main/java/cardata/partpricemanager/brands/SEAT_brand.java" />
+      <file url="file://$USER_HOME$/Documents/PriceListManager/src/main/java/cardata/partpricemanager/brands/SUBARU_brand.java" />
+      <file url="file://$USER_HOME$/Documents/PriceListManager/src/main/java/cardata/partpricemanager/brands/TOYOTA.java" />
+      <file url="file://$USER_HOME$/Documents/PriceListManager/src/main/java/cardata/partpricemanager/brands/VOLVO_brand.java" />
+      <file url="file://$USER_HOME$/Documents/PriceListManager/src/main/java/cardata/partpricemanager/brands/VW_brand.java" />
+    </excludeFromCompile>
+  </component>
+</project>
