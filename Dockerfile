@@ -2,11 +2,11 @@ FROM python:3.10-slim-buster
 
 WORKDIR /src
 
-COPY ./app/requirements.txt requirements.txt
+COPY codebuild/starter/app/requirements.txt requirements.txt
 
 RUN pip install -r requirements.txt
 
-COPY ./app .
+COPY codebuild/starter/app .
 
 CMD python app.py
 
