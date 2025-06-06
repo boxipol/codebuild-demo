@@ -1,6 +1,7 @@
 version: 0.2
 
 phases:
+  on-failure: ABORT
   pre_build:
     commands:
       - echo Logging into ECR
