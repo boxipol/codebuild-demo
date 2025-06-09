@@ -1,12 +1,10 @@
 FROM python:3.10-slim-buster
 
-WORKDIR /src
+ARG POSTGRES_USER=$POSTGRES_USER
+ARG POSTGRES_PASSWORD=$POSTGRES_PASSWORD
 
-COPY codebuild/starter/app/requirements.txt requirements.txt
+COPY ./ .
 
 RUN pip install -r requirements.txt
 
-COPY codebuild/starter/app .
-
 CMD python app.py
-
